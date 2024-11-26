@@ -30,4 +30,4 @@ A user-friendly **Graphical User Interface (GUI) Calculator** designed for simpl
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/calculator-gui.git  
+   git clone https://github.com/HiradFakouri/GUIcalculator/tree/main 
